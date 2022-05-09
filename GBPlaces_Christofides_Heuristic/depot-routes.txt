@@ -1,0 +1,117 @@
+
+Generating a route for depot [0]. 
+
+[DEPOT] --> [London] - travelling 24.404km.
+[London] --> [Westminster] - travelling 0km.
+[Westminster] --> [Crawley] - travelling 35.2766km.
+[Crawley] --> [Brighton] - travelling 25.5438km.
+[Brighton] --> [Worthing] - travelling 25.8031km.
+[Worthing] --> [Eastbourne] - travelling 73.0327km.
+[Eastbourne] --> [Hastings] - travelling 32.9668km.
+[Hastings] --> [Maidstone] - travelling 36.8867km.
+[Maidstone] --> [Gillingham] - travelling 11.3429km.
+[Gillingham] --> [Rayleigh] - travelling 18.3531km.
+[Rayleigh] --> [Southend-on-Sea] - travelling 12.9043km.
+[Southend-on-Sea] --> [Colchester] - travelling 37.3538km.
+[Colchester] --> [Ipswich] - travelling 31.6364km.
+[Ipswich] --> [Norwich] - travelling 52.0604km.
+[Norwich] --> [Basildon] - travelling 130.981km.
+[Basildon] --> [Chelmsford] - travelling 14.7254km.
+[Chelmsford] --> [Cambridge] - travelling 56.4817km.
+[Cambridge] --> [Stevenage] - travelling 43.9535km.
+[Stevenage] --> [DEPOT] - travelling 18.7378km.
+[DEPOT] --> [Watford] - travelling 14.0309km.
+[Watford] --> [Hemel Hempstead] - travelling 12.3166km.
+[Hemel Hempstead] --> [Luton] - travelling 12.7524km.
+[Luton] --> [Bedford] - travelling 22.9234km.
+[Bedford] --> [Milton Keynes] - travelling 33.1931km.
+[Milton Keynes] --> [Northampton] - travelling 23.0409km.
+[Northampton] --> [Leicester] - travelling 43.6534km.
+[Leicester] --> [Grimsby] - travelling 142.253km.
+[Grimsby] --> [Hull] - travelling 32.7088km.
+[Hull] --> [Lincoln] - travelling 49.6799km.
+[Lincoln] --> [Peterborough] - travelling 64.7985km.
+[Peterborough] --> [Slough] - travelling 100.017km.
+[Slough] --> [High Wycombe] - travelling 20.0748km.
+[High Wycombe] --> [Reading] - travelling 28.9383km.
+[Reading] --> [Oxford] - travelling 40.962km.
+[Oxford] --> [Basingstoke] - travelling 46.7757km.
+[Basingstoke] --> [Portsmouth] - travelling 40.7685km.
+[Portsmouth] --> [Southampton] - travelling 36.0226km.
+[Southampton] --> [Bournemouth] - travelling 55.2691km.
+[Bournemouth] --> [Poole] - travelling 13.4032km.
+[Poole] --> [Woking] - travelling 168.866km.
+
+Total distance travelled for this route = 1475.57km.
+---------------
+
+
+Generating a route for depot [1]. 
+
+[DEPOT] --> [Stockport] - travelling 12.7106km.
+[Stockport] --> [Manchester] - travelling 10.7736km.
+[Manchester] --> [Salford] - travelling 5.92066km.
+[Salford] --> [Sale] - travelling 6.56004km.
+[Sale] --> [Bolton] - travelling 18.186km.
+[Bolton] --> [Blackburn] - travelling 15.3175km.
+[Blackburn] --> [Wigan] - travelling 23.7221km.
+[Wigan] --> [Preston] - travelling 22.8768km.
+[Preston] --> [Glasgow] - travelling 248.009km.
+[Glasgow] --> [Edinburgh] - travelling 118.216km.
+[Edinburgh] --> [Dundee] - travelling 52.2321km.
+[Dundee] --> [Aberdeen] - travelling 110.231km.
+[Aberdeen] --> [Blackpool] - travelling 292.23km.
+[Blackpool] --> [Southport] - travelling 15.2088km.
+[Southport] --> [Liverpool] - travelling 20.54km.
+[Liverpool] --> [Birkenhead] - travelling 4.35543km.
+[Birkenhead] --> [Chester] - travelling 22.131km.
+[Chester] --> [St. Helens] - travelling 28.4444km.
+[St. Helens] --> [Warrington] - travelling 17.7217km.
+[Warrington] --> [Gloucester] - travelling 136.297km.
+[Gloucester] --> [Cheltenham] - travelling 18.0167km.
+[Cheltenham] --> [Swindon] - travelling 44.954km.
+[Swindon] --> [Plymouth] - travelling 282.477km.
+[Plymouth] --> [Exeter] - travelling 75.2308km.
+[Exeter] --> [Cardiff] - travelling 77.2207km.
+[Cardiff] --> [Swansea] - travelling 85.7605km.
+[Swansea] --> [Newport] - travelling 105.106km.
+[Newport] --> [Weston-Super-Mare] - travelling 21.3079km.
+[Weston-Super-Mare] --> [Bristol] - travelling 43.3287km.
+[Bristol] --> [Bath] - travelling 27.2738km.
+[Bath] --> [Worcester] - travelling 72.9094km.
+[Worcester] --> [Wolverhampton] - travelling 36.124km.
+[Wolverhampton] --> [Telford] - travelling 37.1319km.
+[Telford] --> [West Bromwich] - travelling 52.3812km.
+[West Bromwich] --> [Birmingham] - travelling 11.0115km.
+[Birmingham] --> [Sutton Coldfield] - travelling 11.8407km.
+[Sutton Coldfield] --> [Solihull] - travelling 13.7939km.
+[Solihull] --> [Coventry] - travelling 29.8933km.
+[Coventry] --> [Nuneaton] - travelling 11.3965km.
+[Nuneaton] --> [Derby] - travelling 34.6715km.
+[Derby] --> [Nottingham] - travelling 36.3649km.
+[Nottingham] --> [Chesterfield] - travelling 39.121km.
+[Chesterfield] --> [Sheffield] - travelling 12.6779km.
+[Sheffield] --> [Rotherham] - travelling 12.7912km.
+[Rotherham] --> [Doncaster] - travelling 25.7221km.
+[Doncaster] --> [York] - travelling 37.7208km.
+[York] --> [Middlesbrough] - travelling 55.403km.
+[Middlesbrough] --> [Darlington] - travelling 35.363km.
+[Darlington] --> [Hartlepool] - travelling 39.9933km.
+[Hartlepool] --> [Sunderland] - travelling 26.4089km.
+[Sunderland] --> [Gateshead] - travelling 24.8786km.
+[Gateshead] --> [Newcastle] - travelling 1.65922km.
+[Newcastle] --> [Rochdale] - travelling 129.067km.
+[Rochdale] --> [Oldham] - travelling 7.77549km.
+[Oldham] --> [Halifax] - travelling 33.435km.
+[Halifax] --> [Huddersfield] - travelling 9.3299km.
+[Huddersfield] --> [Bradford] - travelling 12.9025km.
+[Bradford] --> [Leeds] - travelling 22.7082km.
+[Leeds] --> [Wakefield] - travelling 11.1634km.
+[Wakefield] --> [Barnsley] - travelling 11.5169km.
+[Barnsley] --> [Stoke-on-Trent] - travelling 91.006km.
+[Stoke-on-Trent] --> [DEPOT] - travelling 24.263km.
+
+Total distance travelled for this route = 2642.03km.
+---------------
+
+The total distance travelled to visit all points is 4117.6km.
